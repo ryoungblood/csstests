@@ -1,0 +1,14 @@
+/* CSS Syntax */
+/* selector {property: value;} */
+/* who { what: how;} */
+
+q
+blockquote{
+background: blue;
+color: red
+}
+
+.date {
+  color: red;
+  font-family: Courier New;
+}
